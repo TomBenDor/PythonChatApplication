@@ -59,14 +59,14 @@ Responsive design, the main window is fully resizable.
 
 ### Demos
 
-![](.\demos\login.jpg)
+![image](https://user-images.githubusercontent.com/36517134/133907968-3fdae622-1f76-47bb-84c9-d268b5bc8d93.png)
 
-![](.\demos\login-filled.jpg)
+![image](https://user-images.githubusercontent.com/36517134/133907971-97a90648-359b-496e-8cb1-027f0f60bc89.png)
 
-![](.\demos\login-error.jpg)
+![image](https://user-images.githubusercontent.com/36517134/133907979-9e13fc3a-68db-4f09-8b46-c1fbe53389bd.png)
 
-![](.\demos\signup.jpg)
+![image](https://user-images.githubusercontent.com/36517134/133907985-778f9163-998a-4ea4-81a5-a3cf4231d7c6.png)
 
-![](.\demos\welcome.jpg)
+![image](https://user-images.githubusercontent.com/36517134/133907987-2f2e5708-04ee-4e2a-86e8-1b81f8c410ab.png)
 
-![](.\demos\room.jpg)
+![image](https://user-images.githubusercontent.com/36517134/133907989-41cc974a-6b67-4328-9fee-ab393b325fad.png)
